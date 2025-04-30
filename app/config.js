@@ -7,7 +7,7 @@
       "page": "inventory",
       "click": "app/cameraButton.js",
       "buttonName": {
-        "en": "Open Camera Solutions"
+        "en": "Explore Camera Solutions"
       },
       "icon": "https://cdn.jsdelivr.net/gh/Geotab/sdk-addin-samples@master/storage-api-sample/app/images/icon.svg"
     }
