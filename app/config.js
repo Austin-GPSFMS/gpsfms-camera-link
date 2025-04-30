@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "items": [
     {
-      "page": "Inventory",
+      "page": "inventory",
       "click": "app/cameraButton.js",
       "buttonName": {
         "en": "Open Camera Solutions"
